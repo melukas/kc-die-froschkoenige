@@ -21,6 +21,6 @@
 - Wer den Kegelabend vor 23 Uhr verlässt zahlt 5€.
 - Wer den Kegelabend vor Mitternacht verlässt, zahlt 2€.
 
-## $6 Shirt-Pflicht
+## §6 Shirt-Pflicht
 - Bei den Kegelabenden herrscht Shirt-Pflicht.
 - Wer nicht sichtbar ein Kegelshirt oder Kegelpullover trägt, zahlt 5€.
